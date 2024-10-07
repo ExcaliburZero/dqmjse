@@ -4,6 +4,11 @@ A Japanese save editor for Dragon Quest Monsters: Joker for the Nintendo DS.
 ![Main screen of the save editor](img/main_screen.png)
 
 ## Usage
+### Latest release
+* Download the latest `dqmjse_*.exe` file from the [Releases page](https://github.com/ExcaliburZero/dqmjse/releases).
+* Run that `.exe` file
+
+### Compile source code
 * Install [Visual Studio](https://visualstudio.microsoft.com/)
 * Open Visual Studio
     * Click on "Open a project or solution"
